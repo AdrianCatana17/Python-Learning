@@ -4,7 +4,7 @@ import sys
 
 # Generate a random number to guess
 rand_nr = random.randint(1, 9)
-print(rand_nr)
+
 
 # Menu loop
 def user():
